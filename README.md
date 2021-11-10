@@ -6,6 +6,7 @@ This demonstrates how to run the program.
 ### Dependecy to be installed 
 Since the app will run simaltaenously with the json backend serer, you must install concurrently dependecy with the following command:
 ### `yarn add concurrently`
+After the pacakge is successfully installed, you can deploy the app.
 
 ### Deployment
 ### `yarn run start:dev`
