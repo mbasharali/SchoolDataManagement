@@ -1,4 +1,4 @@
-# Student Mangement
+# Student Management
 
 The following program is for a school management system, where a database of
 student can be stored, updated and deleted.
